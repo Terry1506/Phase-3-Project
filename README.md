@@ -1,5 +1,5 @@
 ### Phase-3-Project
-### Syriatel Customer Churn Analysis
+### Syriatel Telecommunications Customer Churn Analysis
 ### Introduction:
 This project focuses on SyriaTel, a telecommunications company and one of the major players in the Syrian market. Like many companies in the Telco industry, SyriaTel faces the challenge of identifying potentially dissatisfied customers before they switch to another provider. This phenomenon is commonly known as customer churn, and it can significantly impact a company's profitability. To improve their bottom line and retain customers, SyriaTel aims to leverage machine learning techniques to predict customer churn. By predicting churn, SyriaTel can develop targeted strategies and action plans for different customer segments. Objective: The primary objective of this project is to utilize machine learning techniques to accurately predict customer churn for SyriaTel. By understanding which customers are more likely to churn, the company can proactively implement measures to mitigate customer attrition. This predictive capability will enable SyriaTel to take appropriate actions, such as targeted marketing campaigns, personalized offers, and improved customer service, to retain customers and enhance their overall satisfaction.
 
